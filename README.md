@@ -10,18 +10,18 @@ Key: CRYPT
 Message: MEETATBACK
 
 ## Output
-#### Key Matrix
+### Key Matrix
 C R Y P T  
 A B D E F  
 G H I K L  
 M N O Q S  
 U V W X Z  
 
-#### Message Pairs
+### Message Pairs
 ("M", "E"), ("E", "T"), ("A", "T"), ("B", "A"), ("C", "K")
 
-#### Cipher
+### Cipher
 QAFPFCDBPG
 
-#### Decipher
+### Decipher
 MEETATBACK
