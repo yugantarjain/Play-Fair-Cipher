@@ -6,7 +6,7 @@ The technique encrypts pairs of letters (bigrams or digrams) instead of single l
 -Wikipedia
 
 ## Input
-Key: CRYPT
+Key: CRYPT  
 Message: MEETATBACK
 
 ## Output
