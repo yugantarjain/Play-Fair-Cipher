@@ -20,8 +20,8 @@ U V W X Z
 ### Message Pairs
 ("M", "E"), ("E", "T"), ("A", "T"), ("B", "A"), ("C", "K")
 
-## Cipher
+### Cipher
 QAFPFCDBPG
 
-## Decipher
+### Decipher
 MEETATBACK
