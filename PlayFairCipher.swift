@@ -119,7 +119,7 @@ func playfairDecipher(key: String, cipher: String) -> String {
 }
 
 // MARK: - Usage
-let cipher = playfairCipher(key: "CRYPT", message: "HIDEMONEY")
+let cipher = playfairCipher(key: "CRYPT", message: "MEETATBACK")
 print("Cipher Message: \(cipher)")
 
 let decipher = playfairDecipher(key: "CRYPT", cipher: cipher)
