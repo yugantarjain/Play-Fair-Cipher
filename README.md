@@ -18,7 +18,7 @@ M N O Q S
 U V W X Z  
 
 ### Message Pairs
-[("M", "E"), ("E", "T"), ("A", "T"), ("B", "A"), ("C", "K")]
+("M", "E"), ("E", "T"), ("A", "T"), ("B", "A"), ("C", "K")
 
 ## Cipher
 QAFPFCDBPG
